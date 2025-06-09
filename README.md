@@ -18,8 +18,11 @@
       </td>
       <td valign="top" width="45%">
         <a href="https://github.com/ALPullaguariSW">
-          <img src="https://github-profile-trophy.vercel.app/?username=ALPullaguariSW&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trofeos de GitHub"/>
-        </a>
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=ALPullaguariSW&theme=gruvbox&no-frame=true&margin-w=10&row=2&column=3" 
+      alt="GitHub Trophies"
+    />
+  </a>
       </td>
     </tr>
   </table>
